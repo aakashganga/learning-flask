@@ -1,6 +1,7 @@
 Flask==0.12
 Flask-SocketIO==2.8.2
 Flask-SQLAlchemy==2.1
+Flask-WTF==0.14.2
 Jinja2==2.9.4
 MarkupSafe==0.23
 matplotlib==1.5.3
