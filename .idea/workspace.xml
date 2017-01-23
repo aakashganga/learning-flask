@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d10066d-10eb-4fff-9e02-32a589c79b42" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models.py" afterPath="$PROJECT_DIR$/models.py" />
-    </list>
+    <list default="true" id="4d10066d-10eb-4fff-9e02-32a589c79b42" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -863,12 +861,12 @@
       <workItem from="1484954283024" duration="1956000" />
       <workItem from="1484966833318" duration="4305000" />
       <workItem from="1485002585357" duration="3855000" />
-      <workItem from="1485121803783" duration="2512000" />
+      <workItem from="1485121803783" duration="3260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14136000" />
+    <option name="totallyTimeSpent" value="14884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1554" height="916" extended-state="6" />
